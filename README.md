@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development with a passion for crafting responsive and user-friendly applications.
 - 🌱 I’m currently learning Cloud Computing, Golang and Fastify.
 - 💞️ I’m looking to collaborate on the passionate team.
-- 📫 How to reach me gmiller112088@gmail.com
+- 📫 How to reach me cdicky6139@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am fascinated in Table Tennis, Tennis and Go (board game).
 
